@@ -1,0 +1,22 @@
+.gridBody {
+    margin: 0;
+    padding: 0;
+
+    height: 600px;
+    width: 600px;
+    border: 5px solid black;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.box {
+    margin: 0;
+    padding: 0;
+
+    border: 0.5px solid black;
+
+
+}
+.active {
+    background-color: blue;
+}
